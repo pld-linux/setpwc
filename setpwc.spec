@@ -1,5 +1,5 @@
 Summary:	Utility for setting parameters of PWC-based webcams
-Summary(pl):	Narzêdzie do ustawiania parametrów kamer opartych na PWC
+Summary(pl.UTF-8):   NarzÄ™dzie do ustawiania parametrÃ³w kamer opartych na PWC
 Name:		setpwc
 Version:	1.1
 Release:	1
@@ -15,9 +15,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 With setpwc you can set and list various settings of Philips (and
 compatible) WebCams with the 'PWC chipset'.
 
-%description -l pl
-Przy pomocy setpwc mo¿na ustawiaæ i odczytywaæ ró¿ne parametry kamer
-internetowych Philipsa (i kompatybilnych) opartych na uk³adzie PWC.
+%description -l pl.UTF-8
+Przy pomocy setpwc moÅ¼na ustawiaÄ‡ i odczytywaÄ‡ rÃ³Å¼ne parametry kamer
+internetowych Philipsa (i kompatybilnych) opartych na ukÅ‚adzie PWC.
 
 %prep
 %setup -q
