@@ -1,5 +1,5 @@
 Summary:	Utility for setting parameters of PWC-based webcams
-Summary(pl.UTF-8):   Narzędzie do ustawiania parametrów kamer opartych na PWC
+Summary(pl.UTF-8):	Narzędzie do ustawiania parametrów kamer opartych na PWC
 Name:		setpwc
 Version:	1.1
 Release:	1
