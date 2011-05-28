@@ -1,12 +1,12 @@
 Summary:	Utility for setting parameters of PWC-based webcams
 Summary(pl.UTF-8):	Narzędzie do ustawiania parametrów kamer opartych na PWC
 Name:		setpwc
-Version:	1.2
+Version:	1.3
 Release:	1
-License:	GPL
-Group:		Applications
+License:	GPL v2 with OpenSSL exception
+Group:		Applications/Multimedia
 Source0:	http://www.vanheusden.com/setpwc/%{name}-%{version}.tgz
-# Source0-md5:	1bc721cdfcbac24027e2afc93685d29f
+# Source0-md5:	79d5ee468c0076feb3cac473bef661d2
 Patch0:		%{name}-Makefile.patch
 URL:		http://www.vanheusden.com/setpwc/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
